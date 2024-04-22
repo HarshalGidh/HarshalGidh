@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">I'm Harshal 😀</h1>
 
 <div id = "header" align = "center">
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1bG5yenUybzNlZWk1NGdja3ZvdDE3dXAzenJxNzNndmlhd21mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width = "100"/>
@@ -19,7 +23,7 @@
 <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ1dG14MnRzYmhzdXJjM2V4MnRpemx5MTd3dWZnNTY3bnlpdmpnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
 </div>
 
-
+# 👋 About Me ❤️:
 ---
 :man_technologist:
 I am an apsiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
